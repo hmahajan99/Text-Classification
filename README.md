@@ -5,4 +5,5 @@ Given a text document we aim to predict the news group category (out of the the 
 (If you want quicker run time you can change the directory from 20_newsgroups to mini_newsgroups which consists of a smaller dataset) <br /> <br />
 ## Features 
 You can fit the Multinomial Naive Bayes classifier over the training data, make predictions and get the score(mean accuracy) for testing data. <br />
-Our model gives similar results on comparison with sklearn's MultinomialNB.
+Our model gives similar results on comparison with sklearn's MultinomialNB. <br />
+The model has been trained on 15,000 documents and 5,000 articles have been used for testing purposes.
